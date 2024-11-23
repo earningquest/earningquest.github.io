@@ -3,6 +3,8 @@ layout: post
 title: jekyll no style please 테마에서 스타일이 적용되지않는 오류
 ---
 
+
+
 뭔가 연달아서 작성하게될줄은 몰랐지만. 다행이 테마의 스타일이 블로그에 적용되지않는 원인을 찾았다.
 
 블로그에 접속한 다음 네트워크 탭을 확인했을 때 main.css가 404로 표시되고있는 문제가 계속있었다.
@@ -39,3 +41,10 @@ url: https://earningquest.github.io # root address of the site
 ---
 
 세상에... 한글로 파일이름을 작성하면 빌드에서 제외된다..
+
+---
+
+바보같이 끝에 md를 붙이지않았다. 바보
+
+2024-11-23-Jekyll-no-style-please-the-thema-style-not-effect-on-page
+
